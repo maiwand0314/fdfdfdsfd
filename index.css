@@ -1,0 +1,12 @@
+body {
+    position: relative;
+}
+
+.kvadrat {
+    position: absolute;
+    color: red;
+    width: 30%;
+    left: 50%;
+    height: 500px;
+    background-color: blue;
+}
